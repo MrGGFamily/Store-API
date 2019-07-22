@@ -1,12 +1,12 @@
 # Restful API
 
-##INSTALLATION
+## INSTALLATION
 
 '''
 pip intall Flask
 python app.py
 '''
-##Description
+## Description
 
-##Implementaion
+## Implementaion
 This project is implememnted using Flask, and is a RESTful API for a Store.
