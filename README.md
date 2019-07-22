@@ -3,9 +3,11 @@
 ## INSTALLATION
 
 ```
-pip install flask
-pip install flask_restful
-pip install flask_jwt
+pip install Flask
+pip install Flask-RESTful
+pip install Flask-JWT
+pip install Flask-SQLAlchemy
+pip install uwsgi
 python app.py
 ```
 ## Description
