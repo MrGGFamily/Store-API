@@ -4,11 +4,8 @@
 
 '''
 pip install flask
-
 pip install flask_restful
-
 pip install flask_jwt
-
 python app.py
 '''
 ## Description
