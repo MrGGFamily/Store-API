@@ -8,7 +8,6 @@ pip install Flask-RESTful
 pip install Flask-JWT
 pip install Flask-SQLAlchemy
 pip install uwsgi
-python app.py
 ```
 ## Description
 This Project is a restful api for CRUD stores and items within those stores it also includes creating a user generating a JWT key for that user and then using that to authenticate the user before CRUD
